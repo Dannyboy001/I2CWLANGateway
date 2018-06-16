@@ -9,7 +9,7 @@
 #include <ESP8266WebServer.h>
 #include <WiFiUdp.h>
 #include <ArduinoOTA.h>
-#include <PCF8574.h> //
+#include <PCF8574.h> // https://github.com/RobTillaart/Arduino/tree/master/libraries/PCF8574
 #include <ESP8266HTTPClient.h>
 #include <Wire.h>
 
